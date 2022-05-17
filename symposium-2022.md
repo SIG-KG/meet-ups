@@ -12,7 +12,7 @@ we invite all participants interested in collaborations to register their intere
 
 10:00 - 10:15 Opening by the IG chairs
 
-10:15 - 11:00 Keynote by [Soeren Auer](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/soeren-auer), Director TIB, Professor of Data Science and Digital Libraries at Leibniz Universität Hannover
+10:15 - 11:00 **Facilitating causality in science with cognitive knowledge graphs** Keynote by [Soeren Auer](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/soeren-auer), Director TIB, Professor of Data Science and Digital Libraries at Leibniz Universität Hannover
 
 11:00 - 11:15 Break
 
